@@ -1,2 +1,2 @@
-# Bored-
+# NoBoredom
 Get rid of boredom
