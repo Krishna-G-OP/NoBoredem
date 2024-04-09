@@ -16,8 +16,8 @@ NoBoredom is a web application designed to alleviate your boredom by providing a
 
 <div style="display: flex; justify-content: center;">
   <p style="text-align: center;">
-    <img src="screenshots/mobile/1.png" alt="" width="100" height="195" />
-    <img src="screenshots/mobile/2.png" alt="" width="100" height="195" />
+    <img src="screenshots/mobile/1.png" alt="" width="100" height="auto" />
+    <img src="screenshots/mobile/2.png" alt="" width="100" height="auto" />
     
 
   </p>
