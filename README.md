@@ -22,7 +22,7 @@ NoBoredom is a web application designed to alleviate your boredom by providing a
 
   </p>
 </div>
-        <p>**PC 
+
 ### License:
 NoBoredom is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 
