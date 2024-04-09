@@ -33,7 +33,7 @@ Contributions are welcome! If you have any ideas for improvements or want to rep
 To get started with NoBoredom, simply visit [https://noboredom.vercel.app/].
 
 ### Feedback:
-We'd love to hear your feedback! Feel free to reach out to us at [thunderarch@duck.com].
+We'd love to hear your feedback! Feel free to reach out to me at [thunderarch@duck.com].
 
 ### Acknowledgements:
 - Thanks to the creators of the Bored API for providing the data that powers NoBoredom.
