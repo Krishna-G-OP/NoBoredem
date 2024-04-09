@@ -1,5 +1,3 @@
-
-
 # NoBoredom
 
 ### Cure Your Boredom with NoBoredom!
@@ -18,14 +16,12 @@ NoBoredom is a web application designed to alleviate your boredom by providing a
 
 **Mobile Version:**
 
-[screenshots/mobile/1.png]
-[screenshots/mobile/2.png]
+![Mobile Screenshot 1](screenshots/mobile/1.png)
+![Mobile Screenshot 2](screenshots/mobile/2.png)
 
 **PC Version:**
 
-wait
-
-[Insert PC Screenshot here]
+![PC Screenshot](screenshots/pc/1.png)
 
 ### License:
 NoBoredom is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
