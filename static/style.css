@@ -3,11 +3,16 @@
 h1{
 
     color: rgb(37, 36, 36);
+ 
+    display: grid;
+
+
 }
 
 body {
     font-family: Poppins, sans-serif;
     text-align: center;
+    
     
     background-color: #506a4b;
    }
@@ -62,8 +67,8 @@ body {
     position: fixed;
     top: 60vh;
   
-    left:30%;
-right: 30%;
+    left:20%;
+right: 20%;
    }
 
 #activity {
@@ -74,3 +79,23 @@ right: 30%;
     font-weight: 800;
   }
   
+
+
+  #logo{
+display: flex;   
+float: right;
+
+  }
+
+  #logo{
+
+height: 60px;
+width: auto;
+position: fixed;
+
+  }
+
+
+  #h1{
+
+  }
