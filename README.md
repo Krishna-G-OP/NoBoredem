@@ -1,7 +1,6 @@
 
 
 # NoBoredom
-screenshots/mobile/1.png
 
 ### Cure Your Boredom with NoBoredom!
 
