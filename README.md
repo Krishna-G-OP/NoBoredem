@@ -14,18 +14,15 @@ NoBoredom is a web application designed to alleviate your boredom by providing a
 
 ### Screenshots:
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="margin-right: 10px;">
-        <p>**Mobile Version:**</p>
-        <img src="screenshots/mobile/1.png" alt="Mobile Screenshot 1" width="300">
-        <img src="screenshots/mobile/2.png" alt="Mobile Screenshot 2" width="300">
-    </div>
-    <div>
-        <p>**PC Version:**</p>
-        <img src="screenshots/pc/1.png" alt="PC Screenshot" width="600">
-    </div>
-</div>
+<div style="display: flex; justify-content: center;">
+  <p style="text-align: center;">
+    <img src="screenshots/mobile/1.png" alt="" width="100" height="195" />
+    <img src="screenshots/mobile/2.png" alt="" width="100" height="195" />
+    
 
+  </p>
+</div>
+        <p>**PC 
 ### License:
 NoBoredom is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 
