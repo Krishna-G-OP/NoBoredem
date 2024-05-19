@@ -1,4 +1,4 @@
-const suggestActivity = document.getElementById('button-52');
+const suggestActivity = document.getElementById('button');
 const activityText = document.getElementById('activity');
 
 suggestActivity.addEventListener('click', () => {
