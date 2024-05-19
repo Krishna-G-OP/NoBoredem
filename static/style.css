@@ -1,28 +1,20 @@
+h1 {
+  color: #ffffff;
 
-
-h1{
-
-    color: #ffffff;
- 
-    display: grid;
-
-
+  display: grid;
 }
 
 body {
-    font-family: Poppins, sans-serif;
-    text-align: center;
-    
-    
-    background-color: #212121;
-   }
-   
+  font-family: Poppins, sans-serif;
+  text-align: center;
 
-   
-   p {
-    margin-top: 1rem;
-    font-size: 1.5rem;
-   }
+  background-color: #212121;
+}
+
+p {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+}
 
 .button {
   padding: 0.1em 0.25em;
@@ -62,34 +54,24 @@ body {
   transition: all 1s;
 }
 
-
-  
-
 #activity {
-    text-align: center;
-    margin: 20%;
-    color: aliceblue;
-    font-size: 200%;
-    font-weight: 800;
-  }
-  
+  text-align: center;
+  margin: 20%;
+  color: aliceblue;
+  font-size: 200%;
+  font-weight: 800;
+}
 
+#logo {
+  display: flex;
+  float: right;
+}
 
-  #logo{
-display: flex;   
-float: right;
+#logo {
+  height: 45px;
+  width: auto;
+  position: fixed;
+}
 
-  }
-
-  #logo{
-
-height: 45px;
-width: auto;
-position: fixed;
-
-  }
-
-
-  #h1{
-
-  }
+#h1 {
+}
