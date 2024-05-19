@@ -1,5 +1,6 @@
 # NoBoredom
 
+
 ### Cure Your Boredom with NoBoredom!
 
 NoBoredom is a web application designed to alleviate your boredom by providing a variety of engaging tasks sourced from the Bored API.
